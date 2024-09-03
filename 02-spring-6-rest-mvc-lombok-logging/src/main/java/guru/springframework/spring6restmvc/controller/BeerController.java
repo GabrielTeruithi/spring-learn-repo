@@ -8,9 +8,7 @@ import org.springframework.stereotype.Controller;
 
 import java.util.UUID;
 
-/**
- * Created by jt, Spring Framework Guru.
- */
+ 
 @Slf4j
 @AllArgsConstructor
 @Controller

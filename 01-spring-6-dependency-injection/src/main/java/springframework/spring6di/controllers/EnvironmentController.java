@@ -3,9 +3,7 @@ package springframework.spring6di.controllers;
 import springframework.spring6di.services.EnvironmentService;
 import org.springframework.stereotype.Controller;
 
-/**
- * Created by jt, Spring Framework Guru.
- */
+ 
 @Controller
 public class EnvironmentController {
 

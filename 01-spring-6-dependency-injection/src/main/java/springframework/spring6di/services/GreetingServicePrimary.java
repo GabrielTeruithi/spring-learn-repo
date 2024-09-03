@@ -3,9 +3,7 @@ package springframework.spring6di.services;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
 
-/**
- * Created by jt, Spring Framework Guru.
- */
+ 
 @Primary
 @Service
 public class GreetingServicePrimary implements GreetingService {

@@ -6,9 +6,7 @@ import org.springframework.stereotype.Service;
 import java.time.LocalDateTime;
 import java.util.*;
 
-/**
- * Created by jt, Spring Framework Guru.
- */
+ 
 @Service
 public class CustomerServiceImpl implements CustomerService {
 
